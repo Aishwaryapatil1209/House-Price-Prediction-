@@ -13,7 +13,7 @@ This project focuses on predicting house prices using machine learning algorithm
 
 **2)Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-**3)Tools**: Visual Studio 
+**3)Tools**: Visual Studio Code
 
 **How It Works**
 **1)Data Preparation**: Clean and preprocess the dataset to ensure high-quality input for the model.
