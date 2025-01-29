@@ -1,8 +1,8 @@
 import numpy as np
-# import joblib
+import joblib
 import pandas as pd
 import streamlit as st
-# from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder
 
 # Load the dataset
 df = pd.read_csv("mhp.csv")  # Ensure the dataset path is correct
